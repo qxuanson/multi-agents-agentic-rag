@@ -1,1 +1,1 @@
-![An Overview of Multi-Agent Agentic RAG Systems](system.png)
+![An Overview of Multi-Agent Agentic RAG Systems](System.png)
