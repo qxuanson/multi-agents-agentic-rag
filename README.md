@@ -1,4 +1,4 @@
 <figure>
-  <img src="đường_dẫn_đến_hình_ảnh" alt="Văn bản thay thế">
+  <img src="System.png" alt="An Overview of Multi-Agent Agentic RAG Systems">
   <figcaption style="text-align:center;">An Overview of Multi-Agent Agentic RAG Systems</figcaption>
 </figure>
