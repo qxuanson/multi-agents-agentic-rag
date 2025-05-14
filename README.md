@@ -22,7 +22,6 @@ _Sơ đồ tổng quan về Hệ thống Đa Tác Tử Agentic RAG_
 
 3.  **API Key:**
     Tạo một tệp `.env` trong thư mục gốc của dự án và trong thư mục `agent-demo`.
-    Ví dụ tệp `.env`:
     ```env
     GOOGLE_API_KEY="YOUR_GOOGLE_API_KEY"
     ```
