@@ -1,0 +1,9 @@
+python-dotenv==1.0.1
+chromadb
+pandas
+gspread
+oauth2client
+flask_cors
+streamlit
+google-adk
+google-genai
