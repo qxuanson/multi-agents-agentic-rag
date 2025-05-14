@@ -14,16 +14,14 @@ _Sơ đồ tổng quan về Hệ thống Đa Tác Tử Agentic RAG_
     git clone https://github.com/qxuanson/multi-agents-agentic-rag
     cd multi-agent-agentic-rag
     ```
-    *(Thay thế `TEN_NGUOI_DUNG_CUA_BAN/TEN_KHO_LUU_TRU_CUA_BAN` bằng URL kho lưu trữ GitHub của bạn)*
 
 2.  **Cài đặt thư viện:**
     ```bash
     pip install -r requirements.txt
     ```
 
-3.  **Set Up Environment Variables (Thiết lập Biến Môi trường):**
-    Nhiều thành phần (đặc biệt là LLMs và Vector Stores) yêu cầu API keys hoặc các thông tin cấu hình khác.
-    Tạo một tệp `.env` trong thư mục gốc của dự án.
+3.  **API Key:**
+    Tạo một tệp `.env` trong thư mục gốc của dự án và trong thư mục `agent-demo`.
     Ví dụ tệp `.env`:
     ```env
     GOOGLE_API_KEY="YOUR_GOOGLE_API_KEY"
